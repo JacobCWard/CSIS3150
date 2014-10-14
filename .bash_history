@@ -111,3 +111,35 @@ a
 gcc 1-2.c
 a
 exit
+ls
+cd week08
+ls
+g++ hello.cpp -o hello
+hello
+g++ hello.cpp -o hello
+hello
+g++ prog03.cpp
+a
+g++ primitive_types.cpp
+g++ primitive_types.cpp
+a
+g++ primitive_types.cpp
+a
+g++ primitive_types.cpp
+a
+g++ modulo_shorts.cpp
+g++ modulo_shorts.cpp
+a
+g++ modulo_shorts.cpp
+a
+g++ input.cpp
+a
+g++ vector.cpp
+g++ vector.cpp
+g++ vector.cpp
+g++ vector.cpp
+a
+g++ queues.cpp
+g++ queues.cpp
+a
+exit
